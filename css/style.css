@@ -595,7 +595,7 @@ footer p {
     }
 
     footer {
-        padding: 1rem;
+        padding: 0rem 1rem;
 
     }
 
@@ -615,7 +615,7 @@ footer p {
     .bg-wave-footer {
         background: url(../images/bg-footer-top-mobile.svg)no-repeat;
         background-size: cover;
-        height: 2.8rem
+        height: 2.5rem
     }
 
     .footer-section1 {
