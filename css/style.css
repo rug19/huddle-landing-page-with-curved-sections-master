@@ -282,7 +282,7 @@ footer p {
 .bg-wave-footer {
     background: url(../images/bg-footer-top-desktop.svg)no-repeat;
     background-size: cover;
-    height: 9.6rem;
+    height: 12rem;
 }
 
 .contact-container {
@@ -372,7 +372,7 @@ footer p {
     }
 
     .title-head img {
-        width: 6rem;
+        width: 8rem;
     }
 
     .btn-header button {
@@ -392,7 +392,7 @@ footer p {
     }
 
     .container-main h1 {
-        font-size: 1.5rem;
+        font-size: 2rem;
         margin: 6rem 0rem 0rem;
     }
 
@@ -408,13 +408,13 @@ footer p {
         background-color: var(--Pink);
         border-radius: 2rem;
         border: solid 1px;
-        width: 11rem;
+        width: 16rem;
         height: 3rem;
         font-family: 'Open Sans', sans-serif;
         font-weight: 700;
         color: white;
         margin-bottom: 5rem;
-        font-size: 0.7rem;
+        font-size: 1rem;
         cursor: pointer;
     }
 
@@ -518,6 +518,7 @@ footer p {
         text-align: center;
         margin-top: 1rem;
         margin-bottom: 7rem;
+        padding: 1rem;
     }
 
     .thid-container h2 {
@@ -595,11 +596,14 @@ footer p {
 
     footer {
         padding: 1rem;
+
     }
 
     footer p {
         font-size: 1rem;
         line-height: 1.5rem;
+        text-decoration: none;
+        color: white;
     }
 
     svg {
@@ -611,7 +615,7 @@ footer p {
     .bg-wave-footer {
         background: url(../images/bg-footer-top-mobile.svg)no-repeat;
         background-size: cover;
-        height: 6.6rem;
+        height: 2.6rem
     }
 
     .footer-section1 {
