@@ -31,8 +31,11 @@ Users should be able to:
 
 Desktop
 
+<img src="design/desktop-design.jpg" width="500px" >
+
 Mobile
 
+<img src="design/mobile-design.jpg" width="300px">
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
