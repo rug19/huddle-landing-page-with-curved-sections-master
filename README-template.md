@@ -16,8 +16,6 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -38,8 +36,8 @@ Mobile
 <img src="design/mobile-design.jpg" width="300px">
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/rug19/huddle-landing-page-with-curved-sections-master.git)
+- Live Site URL: (https://rug19.github.io/huddle-landing-page-with-curved-sections-master/)
 
 ## My process
 
@@ -48,37 +46,20 @@ Mobile
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I learned how to work with background position to form a wave image in the sections contents, I also learned media queries to leave the site responsive for mobile I didn't start with mobile first but I will test in my next project. Using media queries it's a simple way to adapt a site where the users can see the site in a mobile screen you can define the screen size and adpat all the contents for a better view.
 
-To see how you can add code snippets, see below:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+Example: 
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+@media (max-width:768px) {
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+
+{
+
+
 
 ### Continued development
 
