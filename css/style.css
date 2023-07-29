@@ -625,14 +625,14 @@ footer p {
 
 }
 
-@media (max-width:400px) {
+@media (max-width:414px) {
     .bg-wave-section3-top, .bg-wave-section3-bottom {
         background-size: cover;
-    height: 10rem;
+        height: 10rem;
     }
     
     .bg-wave-footer {
         background-size: cover;
-    height: 2.6rem
+        height: 2.6rem
     }
 }
